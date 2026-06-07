@@ -74,13 +74,6 @@ Collection of data structures and algorithm implementations.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F3briii&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3briii&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 

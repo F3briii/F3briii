@@ -75,11 +75,11 @@ Collection of data structures and algorithm implementations.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F3brii&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F3briii&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3brii&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3briii&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -87,7 +87,7 @@ Collection of data structures and algorithm implementations.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=F3brii&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=F3briii&theme=tokyonight" />
 </p>
 
 ---

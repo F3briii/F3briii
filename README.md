@@ -4,10 +4,6 @@
 Informatics Student • C++ Developer in Progress • Database Enthusiast
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=F3brii&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me

@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Febri 👋
 
-<!--
-**F3briii/F3briii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Student
 
-Here are some ideas to get you started:
+💻 Learning:
+- C++
+- PostgreSQL
+- Data Structures
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Projects:
+- Posyandu Information System
+- Cashier System (C++ + SQL)
+
+📚 Currently Studying:
+- Algorithms
+- Database Design
+- Backend Development
+
+## Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)

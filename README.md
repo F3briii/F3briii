@@ -93,7 +93,7 @@ Collection of data structures and algorithm implementations.
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/F3brii
+GitHub: https://github.com/F3briii
 
 ---
 

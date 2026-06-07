@@ -19,10 +19,8 @@
 
 ## Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)

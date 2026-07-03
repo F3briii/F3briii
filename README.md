@@ -61,12 +61,6 @@ Informatics Student • C++ Developer in Progress • Database Enthusiast
 ### 🛒 Cashier System
 A cashier system built with C++ and PostgreSQL.
 
-### 🏥 Posyandu Information System
-Information system for managing citizen and health service data.
-
-### 📖 Algorithm Practice
-Collection of data structures and algorithm implementations.
-
 ---
 
 ## 📊 GitHub Stats

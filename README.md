@@ -65,10 +65,6 @@ A cashier system built with C++ and PostgreSQL.
 
 ---
 
-## 📊 GitHub Stats
-
-
----
 
 ## 🔥 GitHub Streak
 
@@ -80,8 +76,6 @@ A cashier system built with C++ and PostgreSQL.
 
 ## 🌱 2026 Roadmap
 
-- Complete several C++ projects
-- Learn PostgreSQL deeply
 - Build a web-based application
 - Learn backend development
 - Create a professional portfolio
